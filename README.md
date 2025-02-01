@@ -1,8 +1,14 @@
+## Hi, i'm pzsz!
 
+  Vamos criar projetos únicos juntos! Me contate via discord `@pzsz.`
+  <br>
+<a href="https://discord.com/users/272774903357505536">
+  <img src="https://img.icons8.com/color/452/discord-logo.png" width="30" height="30">
+</a>
+</div>
 
 ## 🌍 LINGUAGENS (Iniciante):
+![My Skills](https://skillicons.dev/icons?i=java,js,python)<br><br>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-
-## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,mysql,bootstrap,git,github)](https://skillicons.dev)<br><br>
+## 🛠️ Ferramentas utilizadas:
+![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,nodejs,discord,idea,github)<br><br>
