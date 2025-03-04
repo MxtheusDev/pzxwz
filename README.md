@@ -10,6 +10,6 @@
 
 ## 💫 O que podemos fazer?
 Eu posso trabalhar e fazer as seguintes coisas:
-- Discord bot;
-- Minecraft plugins;
-- Aplicações.
+- Discord bot 🤖
+- Minecraft plugins 🧱
+- Aplicações 📱
