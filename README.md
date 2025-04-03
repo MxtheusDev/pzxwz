@@ -2,6 +2,8 @@
 
 💫 Vamos criar projetos únicos juntos! Me contate via discord `@pzsz.`
 
+💌 Não possui discord? Envie através de: `pzszcontato@gmail.com`
+
 ## 🌍 Linguagens (Iniciante):
 ![My Skills](https://skillicons.dev/icons?i=java,js,python)<br><br>
 
