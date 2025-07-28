@@ -8,7 +8,7 @@
 ![My Skills](https://skillicons.dev/icons?i=java,js,html)<br><br>
 
 ## 🛠️ Ferramentas utilizadas:
-![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,nodejs,discord,idea,github)<br><br>
+![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,nodejs,discord,idea,github,css)<br><br>
 
 ## 💫 O que podemos fazer?
 Eu posso trabalhar e fazer as seguintes coisas:
